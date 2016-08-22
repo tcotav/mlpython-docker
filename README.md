@@ -1,6 +1,6 @@
 ## Intro to Machine Learning Docker Environment
 
-My Dockerfiles and bash scripts containing the python environment for the class [Intro To Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120).
+My Dockerfiles and bash scripts containing the python environment for the class [Intro To Machine Learning (ud120)](https://www.udacity.com/course/intro-to-machine-learning--ud120).
 
 
 ### Quick start 
